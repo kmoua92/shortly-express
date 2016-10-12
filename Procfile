@@ -1,1 +1,1 @@
-web: node shortly.js
+web: npm start
